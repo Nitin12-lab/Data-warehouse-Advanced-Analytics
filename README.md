@@ -14,6 +14,9 @@ This project focuses on:
 - **Silver Layer**: Data cleansing, normalization, and transformation.
 - **Gold Layer**: Business-ready data optimized for analytics.
 
+![Screenshot 2025-02-28 at 10 20 14 PM](https://github.com/user-attachments/assets/25373998-de46-4c71-9be3-3449fa8bc669)
+
+
 ## 🎯 Key Features
 - **Data Engineering**: Data ingestion, transformation, and integration.
 - **Data Modeling**: Star schema for efficient analytics.
