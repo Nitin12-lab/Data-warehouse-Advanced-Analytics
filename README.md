@@ -1,4 +1,4 @@
-# Data Warehouse and Advanced Analytics Project
+# Data Warehouse and Data Analytics Project
 
 🚀 This project demonstrates a complete data warehousing and analytics solution, following industry best practices in **SQL, ETL pipelines, and data modeling**.
 
